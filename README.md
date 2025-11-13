@@ -9,6 +9,26 @@ It is designed to be simple to use and works on both Windows and Linux/macOS sys
 
 ---
 
+## How to use the Discord Nuler
+- you need a Bot on the Server that have a high rang (a rang where the bot can delete and create channels)
+- You need the GuildID and the BOT Token
+- then just paste it into the Tool
+
+
+## How to use Token BruteForce
+- You just need the Discord ID of someone
+- then paste it in the Tool and the Tool will give you the one-part-token
+- he askes you if you want to bruteforce the rest
+- when the Token got BruteForced they will send it to your webhook
+
+
+
+## How to use Token Information!!!
+- in the path you have a folder named Input-1
+- follow it till you see TokenDisc/TokenDisc.txt
+- just paste your token you want to check into there
+
+
 ## Installation and Usage
 
 ### Requirements
