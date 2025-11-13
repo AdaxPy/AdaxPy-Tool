@@ -28,4 +28,7 @@ Just double klick on Adax_MultiTool.py
 1. git clone https://github.com/AdaxPy/AdaxPy-Tool.git
 2. cd AdaxPy-Tool
 3. cd Adax-Tool
-4. 
+4. pip install -r requirements.txt
+5. python3 Adax_MultiTool.py
+
+Here you go
