@@ -29,6 +29,14 @@ It is designed to be simple to use and works on both Windows and Linux/macOS sys
 - just paste your token you want to check into there
 
 ___This will Include:___
+Discord Username
+Display Name
+Email 
+Email Verified
+Phone Number if Connected
+NSFW Content: True/False
+and more stuff
+
 
 
 ## Installation and Usage
