@@ -5,7 +5,7 @@ It is designed to be simple to use and works on both Windows and Linux/macOS sys
 
 **Version:** 1.0.0  
 **License:** MIT  
-**Author:** YOUR NAME
+**Author:** AdaxPy
 
 ---
 
