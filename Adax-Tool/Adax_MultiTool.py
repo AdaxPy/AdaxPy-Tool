@@ -667,7 +667,7 @@ def WebhookSpam():
   
     webhook = input("Webhook URL -> ")
     spamtime = float(input(f"How long -> "))
-    word = "Ninja"
+    word = "" # Put in here The Text that will spammed in the chat
 
     print("────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────")
     print(f"Webhook gets spammed...")
