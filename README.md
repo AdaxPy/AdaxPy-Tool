@@ -9,7 +9,7 @@ It is designed to be simple to use and works on both Windows and Linux/macOS sys
 
 ---
 
-## How to use the Discord Nuler
+## How to use the Discord Nuker
 - you need a Bot on the Server that have a high rang (a rang where the bot can delete and create channels)
 - You need the GuildID and the BOT Token
 - then just paste it into the Tool
@@ -27,6 +27,8 @@ It is designed to be simple to use and works on both Windows and Linux/macOS sys
 - in the path you have a folder named Input-1
 - follow it till you see TokenDisc/TokenDisc.txt
 - just paste your token you want to check into there
+
+___This will Include:___
 
 
 ## Installation and Usage
