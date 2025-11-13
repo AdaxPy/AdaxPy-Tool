@@ -25,4 +25,7 @@ Just double klick on Adax_MultiTool.py
 
 ### Linux
 
-1. 
+1. git clone https://github.com/AdaxPy/AdaxPy-Tool.git
+2. cd AdaxPy-Tool
+3. cd Adax-Tool
+4. 
